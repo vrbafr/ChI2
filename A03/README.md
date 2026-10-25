@@ -1,4 +1,4 @@
-# A04 — PubChem benzidine compounds
+# A03 — PubChem benzidine compounds
 
 `pubchem_benzidine.xml` contains the XML export of the 226 compound results
 from a PubChem search for `benzidine`. The export was obtained through the
